@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+}
+
+.orange-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 90px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.half-width-img{
+    width: 40%;
+    height: 70%;
+    
+   float: left;
+    margin-left: -94px;
+ 
+
+    
+   
+}
+.half-width-img img{
+    width:70%;
+    
+ 
+   
+}
+.experience-area{
+    padding-left: 200px;
+}
+
+.some-text {
+    text-align: center;
+    height: 250px;
+    background-color:white;
+}
+
+.some-text small{
+    color: gray;
+}
+
+.some-text p{
+    color: dimgray;
+}
+.send-sms p{
+
+    padding-top: 50px;
+  
+}
+.send-sms {
+    height: 100px;
+    width: 50%;
+    margin-left: 350px;
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(45deg, rgb(192, 65, 139), rgb(223, 82, 187));
+    border-radius: 10px;
+}
+footer{
+    padding-top: 150px;
+}
+footer p{
+    text-align: center;
+    color: gray;
+   }
