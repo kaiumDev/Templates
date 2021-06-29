@@ -3,6 +3,7 @@ body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
     
+    
 }
 h1{
     font-size: 50px;
@@ -69,4 +70,8 @@ section{
 }
 footer p{
  text-align: center;
+ color: white;
+}
+footer{
+    background-image: linear-gradient(180deg, rgb(114, 10, 10), rgb(150, 103, 91));
 }
