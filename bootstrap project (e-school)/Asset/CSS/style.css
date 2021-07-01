@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.header {
+    position: absolute;
+    padding-left: var(--bs-gutter-x,10.75rem);
+padding-right: var(--bs-gutter-x,7.75rem);
+    width: 100%;
+    height: 576px;
+    left: 0px;
+    top: 0px;
+    background: #F0FFF0;
+}
+
+.navbar-brand img {
+    width: 25%;
+}
+
+.nav-item {
+    margin: 10px;
+}
+
+
+.btn {
+    height: 43px;
+    width: 104px;
+    margin-top: 16px;
+    border-radius: 33px;
+    padding: 12px, 28px, 12px, 28px;
+    background-color: #21B573;
+    color: white;
+
+}
+p{
+ 
+width: 188px;
+height: 24px;
+left: 205px;
+top: 178px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FD511A;
+}
+
+span{
+    color: #21B573;;
+}
+h4{
+ 
+width: 405px;
+height: 25%;
+left: 205px;
+top: 212px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 70px;
+}
