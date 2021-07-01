@@ -64,12 +64,15 @@
     border-top: none;
 
 }
-#subscribe{
+
+#subscribe {
     height: 200px;
 }
-#subscribe h6{
+
+#subscribe h6 {
     color: gray;
 }
-footer{
+
+footer {
     text-align: center;
 }
