@@ -1,83 +1,103 @@
-
-
-nav{
+nav {
     background-color: none;
     padding: 0px 100px;
     margin: 0px;
 }
-.navbar-brand img{
+
+.navbar-brand img {
     width: 25%;
 }
+
 .buy-now-button {
     height: 43px;
     width: 104px;
-    
+
     border-radius: 33px;
     padding: 12px, 28px, 12px, 28px;
     background-color: #21B573;
     color: white;
     border: none;
 }
-.Illustration img{
+
+.Illustration img {
     width: 90%;
 }
-.fast-coloumn h6{
-   
+
+.fast-coloumn h6 {
+
     font-size: 23px;
     color: #FD511A;
 }
-.fast-coloumn span{
+
+.fast-coloumn span {
     color: #21B573;
 }
-.fast-coloumn h1{
+
+.fast-coloumn h1 {
     padding-bottom: 50px;
     font-size: 2.6rem;
 }
-.header{
+
+.header {
     background-color: #F0FFF0;
 }
-.icons{
+
+.icons {
     padding-top: 100px;
 
 }
-.icons img{
+
+.icons img {
     width: 20%;
     text-align: center;
 }
-.courses h2{
+
+.courses h2 {
     text-align: center;
 }
-.about-me{
+
+.about-me {
     padding-top: 100px;
     padding-bottom: 100px;
 }
-.about-me h2{
+
+.about-me h2 {
     text-align: center;
 }
-.about-me img{
+
+.about-me img {
     width: 70%;
-    margin:0px;
-    padding:0px;
+    margin: 0px;
+    padding: 0px;
 }
-footer{
-    
+
+footer {
+
     background-color: #282531;
     color: white;
 }
-footer h6{
+
+footer h6 {
     padding-top: 50px;
 }
-footer .col-md-2{
+
+footer .col-md-2 {
     padding: 25px;
 }
-footer .col-md-6{
+
+footer .col-md-6 {
     padding: 20px 130px;
 }
+
 .card {
     border: none;
     border-radius: 10px;
     box-shadow: 5px 5px 10px lightgray;
 }
-.copyright{
+
+.copyright {
     color: gray;
+}
+.allcard{
+    padding-bottom: 100px;
 }
